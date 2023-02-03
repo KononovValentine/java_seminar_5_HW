@@ -4,7 +4,7 @@ public class Program {
     public static void main(String[] args) {
         System.out.println("Здравствуйте!");
         startProgram();
-    }1
+    }
 
     static void startProgram() {
         System.out.println("Введите номер программы (1-4), либо введите \"Q\" для выхода.");
